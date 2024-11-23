@@ -95,7 +95,7 @@ public final class Container extends JPanel {
     }
 
     /**
-     * This method is invoked to check if this object is fine
+     * This method is invoked to check if this object is fine, skill issue
      */
     public void isReal(){
         //DO NOT REMOVE OR MODIFY THIS FUNCTION
